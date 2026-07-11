@@ -5,14 +5,14 @@ Meus projetos a fazer ou feitos no Fablab. Salvo quando o arquivo foi baixado na
 
 O primeiro nível é dividido em:
 
-@Inbox - Caixa de entrada com arquivos que ainda não "processei"
-@Work - Arquivos de trabalho, usados na separação dos modelos a serem impressos (CAM)
-@Projects - projetos meus, tanto de programação, como de objetos (CAD)
-@Sessions - Arquivos usados em cada "sessão" (dia de aluguel de equipamento, habilitações, cursos, etc)
-@Software - softwares, documentos, etc.
-LICENSE - Licença (CC0, ou seja, relaxa e vai fundo)
-README.md - esse documento
-scripts - scritps (normalemnte shell) usados
+* @Inbox - Caixa de entrada com arquivos que ainda não "processei"
+* @Work - Arquivos de trabalho, usados na separação dos modelos a serem impressos (CAM)
+* @Projects - projetos meus, tanto de programação, como de objetos (CAD)
+* @Sessions - Arquivos usados em cada "sessão" (dia de aluguel de equipamento, habilitações, cursos, etc)
+* @Software - softwares, documentos, etc.
+* LICENSE - Licença (CC0, ou seja, relaxa e vai fundo)
+* README.md - esse documento
+* scripts - scritps (normalemnte shell) usados
 
 Muitas vezes os diretórios seguem o seguinte padrão:
 
