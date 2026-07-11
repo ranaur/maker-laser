@@ -3,7 +3,7 @@
 Meus projetos a fazer ou feitos no Fablab. Salvo quando o arquivo foi baixado na internet, ou mencione outra licença, todos os arquivos que fiz ou modifiquei sequem a licença CC0 1.0 Universal em anexo.
 # Diretórios
 
-O primeiro n[ivel [e dividido em:
+O primeiro nível é dividido em:
 
 @Inbox - Caixa de entrada com arquivos que ainda não "processei"
 @Work - Arquivos de trabalho, usados na separação dos modelos a serem impressos (CAM)
