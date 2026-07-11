@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "*** $1"
+EXT="$(7z l "$1" | grep -E -i '\.(stl|dxf|pdf|obj|3mf)' | cut -b 40- | cut -d . -f 2 | tail -1)"
+mkdir -p "$EXT"
+
+mv "$1" "$EXT/"
+

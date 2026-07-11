@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "*** $1"
+EXT="$(unzip -l "$1" | grep -E -i '\.(stl|dxf|pdf|obj|3mfi|scad)' | cut -b 31- | cut -d . -f 2 | tail -1)"
+mkdir -p "$EXT"
+
+mv "$1" "$EXT/"
