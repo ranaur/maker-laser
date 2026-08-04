@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary DisplayName="Balsa">
+    <Material name="Balsa">
+        <Entry Thickness="3.0000" Desc="Corte">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value="C02"/>
+                <LinkPath Value="Balsa/3.0000/Corte"/>
+                <minPower Value="40"/>
+                <maxPower Value="40"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="Gravação (forte)">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value="C03"/>
+                <LinkPath Value="Balsa/3.0000/Gravação (forte)"/>
+                <minPower Value="17"/>
+                <maxPower Value="20"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="XPS">
+        <Entry Thickness="5.0000" Desc="Corte">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value="C00"/>
+                <LinkPath Value="XPS/3.0000/Coret"/>
+                <minPower Value="21.4"/>
+                <maxPower Value="21.4"/>
+                <maxPower2 Value="20"/>
+                <speed Value="30"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
