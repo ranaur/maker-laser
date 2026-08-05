@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnLibrary DisplayName="Materials">
+    <Material name="Balsa">
+        <Entry Thickness="3.0000" Desc="Corte">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Balsa/3.0000/Corte"/>
+                <minPower Value="40"/>
+                <maxPower Value="40"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="Gravação (forte)">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Balsa/3.0000/Gravação (forte)"/>
+                <minPower Value="17"/>
+                <maxPower Value="20"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
     <Material name="HOLLER">
         <Entry Thickness="2.0000" Desc="Comment">
             <CutSetting type="Cut">
@@ -33,6 +65,21 @@
         </Entry>
     </Material>
     <Material name="MDF">
+        <Entry Thickness="3.0000" Desc="Comment">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="MDF/3.0000/Comment"/>
+                <minPower Value="0"/>
+                <maxPower Value="0"/>
+                <maxPower2 Value="20"/>
+                <speed Value="400"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
         <Entry Thickness="3.0000" Desc="Cut">
             <CutSetting type="Cut">
                 <index Value="0"/>
@@ -73,13 +120,43 @@
                 <priority Value="0"/>
             </CutSetting>
         </Entry>
-        <Entry Thickness="3.0000" Desc="Comment">
+        <Entry Thickness="3.0000" Desc="Image">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="MDF/3.0000/Image"/>
+                <minPower Value="0.01"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+                <ditherMode Value="grayscale"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="Soft Engrave">
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="MDF/3.0000/Comment"/>
-                <minPower Value="0"/>
-                <maxPower Value="0"/>
+                <LinkPath Value="MDF/3.0000/Soft Engrave"/>
+                <minPower Value="30"/>
+                <maxPower Value="30"/>
+                <maxPower2 Value="20"/>
+                <speed Value="300"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="Soft Fill">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="MDF/3.0000/Soft Fill"/>
+                <maxPower Value="20"/>
                 <maxPower2 Value="20"/>
                 <speed Value="400"/>
                 <dotTime Value="1"/>
@@ -103,67 +180,8 @@
                 <tabCountMax Value="1"/>
             </CutSetting>
         </Entry>
-        <Entry Thickness="3.0000" Desc="Image">
-            <CutSetting type="Image">
-                <index Value="0"/>
-                <name Value=""/>
-                <LinkPath Value="MDF/3.0000/Image"/>
-                <minPower Value="0.01"/>
-                <maxPower Value="80"/>
-                <maxPower2 Value="20"/>
-                <speed Value="200"/>
-                <dotTime Value="1"/>
-                <priority Value="0"/>
-                <tabCount Value="1"/>
-                <tabCountMax Value="1"/>
-                <ditherMode Value="grayscale"/>
-            </CutSetting>
-        </Entry>
-        <Entry Thickness="3.0000" Desc="Soft Fill">
-            <CutSetting type="Scan">
-                <index Value="0"/>
-                <name Value=""/>
-                <LinkPath Value="MDF/3.0000/Soft Fill"/>
-                <maxPower Value="20"/>
-                <maxPower2 Value="20"/>
-                <speed Value="400"/>
-                <dotTime Value="1"/>
-                <priority Value="0"/>
-                <tabCount Value="1"/>
-                <tabCountMax Value="1"/>
-            </CutSetting>
-        </Entry>
-        <Entry Thickness="3.0000" Desc="Soft Engrave">
-            <CutSetting type="Cut">
-                <index Value="0"/>
-                <name Value=""/>
-                <LinkPath Value="MDF/3.0000/Soft Engrave"/>
-                <minPower Value="30"/>
-                <maxPower Value="30"/>
-                <maxPower2 Value="20"/>
-                <speed Value="300"/>
-                <dotTime Value="1"/>
-                <priority Value="0"/>
-                <tabCount Value="1"/>
-                <tabCountMax Value="1"/>
-            </CutSetting>
-        </Entry>
     </Material>
     <Material name="PAPEL">
-        <Entry Thickness="-1.0000" Desc="Cut" NoThickTitle="180gr">
-            <CutSetting type="Cut">
-                <index Value="0"/>
-                <name Value=""/>
-                <LinkPath Value="PAPEL/180gr/Cut"/>
-                <maxPower Value="20"/>
-                <maxPower2 Value="20"/>
-                <speed Value="200"/>
-                <dotTime Value="1"/>
-                <priority Value="0"/>
-                <tabCount Value="1"/>
-                <tabCountMax Value="1"/>
-            </CutSetting>
-        </Entry>
         <Entry Thickness="-1.0000" Desc="Comment" NoThickTitle="180gr">
             <CutSetting type="Cut">
                 <index Value="0"/>
@@ -179,8 +197,37 @@
                 <tabCountMax Value="1"/>
             </CutSetting>
         </Entry>
+        <Entry Thickness="-1.0000" Desc="Cut" NoThickTitle="180gr">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="PAPEL/180gr/Cut"/>
+                <maxPower Value="20"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
     </Material>
     <Material name="XPS">
+        <Entry Thickness="5.0000" Desc="Comment">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="XPS/5.0000/Comment"/>
+                <minPower Value="0"/>
+                <maxPower Value="0"/>
+                <maxPower2 Value="20"/>
+                <speed Value="400"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
         <Entry Thickness="5.0000" Desc="Cut">
             <CutSetting type="Cut">
                 <index Value="0"/>
@@ -196,15 +243,15 @@
                 <tabCountMax Value="1"/>
             </CutSetting>
         </Entry>
-        <Entry Thickness="5.0000" Desc="Comment">
+        <Entry Thickness="5.0000" Desc="Corte">
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="XPS/5.0000/Comment"/>
-                <minPower Value="0"/>
-                <maxPower Value="0"/>
+                <LinkPath Value="XPS/5.0000/Corte"/>
+                <minPower Value="21.4"/>
+                <maxPower Value="21.4"/>
                 <maxPower2 Value="20"/>
-                <speed Value="400"/>
+                <speed Value="30"/>
                 <dotTime Value="1"/>
                 <priority Value="0"/>
                 <tabCount Value="1"/>
