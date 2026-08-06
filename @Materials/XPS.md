@@ -19,5 +19,5 @@ Velocidade: 30
 Potência: 21,4
 (ajuste do foco em 5mm)
 
-Cortou muito bem, mas gerou um pouco de retração (funcionou, mas teria que ajustar o burn)
+Cortou muito bem, mas gerou um pouco de retração (funcionou, mas teria que ajustar o burn - recomenso pelo menos 0.2 mm ou mais)
 
