@@ -5,13 +5,18 @@ Meus projetos a fazer ou feitos no Fablab. Salvo quando o arquivo foi baixado na
 
 O primeiro nível é dividido em:
 
-* @Inbox - Caixa de entrada com arquivos que ainda não "processei"
-* @Work - Arquivos de trabalho, usados na separação dos modelos a serem impressos (CAM)
-* @Projects - projetos meus, tanto de programação, como de objetos (CAD)
+* @Documentation => Documentos e listas relacionadas ao assunto
+* @Inbox => Caixa de entrada com arquivos que ainda não "processei"
+* @Materials => configuraçÕes e reflexões sobre cortes em materiais diferentes
+* @Projects => projetos meus, tanto de programação, como de objetos (CAD)
+* @Projects - Completed => Projetos realizados
+* @Projects - Discarded => Projetos não realizados (lixão, vai que preciso um dia rever?)
+* @Ready => projetos que estão preparados para corte na próxima sessão de aluguel
 * @Sessions - Arquivos usados em cada "sessão" (dia de aluguel de equipamento, habilitações, cursos, etc)
 * @Software - softwares, documentos, etc.
 * LICENSE - Licença (CC0, ou seja, relaxa e vai fundo)
 * README.md - esse documento
+* Lightburn => Arquivos de suporte ao LIghtbun (COnfig, Materiais, etc.)
 * scripts - scritps (normalemnte shell) usados
 
 Muitas vezes os diretórios seguem o seguinte padrão:
