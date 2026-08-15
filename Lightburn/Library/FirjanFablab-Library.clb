@@ -37,7 +37,7 @@
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="HOLLER/2.0000/Comment"/>
+                <LinkPath Value="Holler/2.0000/Comment"/>
                 <minPower Value="0"/>
                 <maxPower Value="0"/>
                 <maxPower2 Value="20"/>
@@ -52,7 +52,7 @@
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="HOLLER/2.0000/Cut"/>
+                <LinkPath Value="Holler/2.0000/Cut"/>
                 <minPower Value="60"/>
                 <maxPower Value="60"/>
                 <maxPower2 Value="20"/>
@@ -90,6 +90,7 @@
                 <maxPower2 Value="20"/>
                 <speed Value="20"/>
                 <dotTime Value="1"/>
+                <tabsEnabled Value="1"/>
                 <priority Value="0"/>
                 <tabCount Value="1"/>
                 <tabCountMax Value="1"/>
@@ -186,7 +187,7 @@
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="PAPEL/180gr/Comment"/>
+                <LinkPath Value="Papel/180gr/Comment"/>
                 <minPower Value="0.01"/>
                 <maxPower Value="0.01"/>
                 <maxPower2 Value="20"/>
@@ -201,7 +202,7 @@
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="PAPEL/180gr/Cut"/>
+                <LinkPath Value="Papel/180gr/Cut"/>
                 <maxPower Value="20"/>
                 <maxPower2 Value="20"/>
                 <speed Value="200"/>
