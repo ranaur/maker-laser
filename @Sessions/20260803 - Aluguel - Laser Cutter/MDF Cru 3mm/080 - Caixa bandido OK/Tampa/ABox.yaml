@@ -1,0 +1,51 @@
+# Generated YAML configuration for ABox
+# Full format with Defaults and Boxes sections
+# This file can be used with boxes_generator.py or the build command
+
+Defaults:
+    # reference: 0
+
+Boxes:
+  - box_type: ABox
+    name: "ABox_example"
+    generate: true
+    args:
+      ### Settings for Finger Joints
+      # FingerJoint_bottom_lip: 0.0 # height of the bottom lips sticking out  (multiples of thickness) FingerHoleEdge only!
+      # FingerJoint_edge_width: 1.0 # space below holes of FingerHoleEdge (multiples of thickness)
+      # FingerJoint_extra_length: 0.0 # extra material to grind away burn marks (multiples of thickness)
+      # FingerJoint_finger: 2.0 # width of the fingers (multiples of thickness)
+      # FingerJoint_play: 0.0 # extra space to allow finger move in and out (multiples of thickness)
+      # FingerJoint_space: 2.0 # space between fingers (multiples of thickness)
+      # FingerJoint_style: rectangular # style of the fingers # [rectangular, springs, barbs, snap]
+      # FingerJoint_surroundingspaces: 2.0 # space at the start and end in multiple of normal spaces
+      # FingerJoint_width: 1.0 # width of finger holes (multiples of thickness)
+
+      ### Settings for the Lid
+      # Lid_brim_height: 1.0 # height of the brim in multiple of thickness (for flatbrim lids)
+      # Lid_brim_spacing: 0.15 # space between the brim and the walls (for flatbrim lids)
+      # Lid_fang_size: 1.0 # size of the fangs in multiples of thickness (for fangbrim lids)
+      # Lid_handle: none # type of handle # [none, long_rounded, long_trapezoid, long_doublerounded, knob]
+      # Lid_handle_height: 8.0 # height of the handle in multiples of thickness (if applicable)
+      # Lid_height: 4.0 # height of the brim in multiples of thickness (if any)
+      # Lid_play: 0.1 # play when sliding the lid on in multiples of thickness (if applicable)
+      # Lid_style: none # type of lid to create # [none, flat, chest, overthetop, ontop, flatbrim, fangbrim]
+
+      ### ABox Settings
+      bottom_edge: "F" # edge type for bottom edge # [too many! Run box_cli list edges to see valid values!]
+      h: "40" # inner height in mm (unless outside selected)
+      outside: "False" # treat sizes as outside measurements [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#outside)
+      x: "115" # inner width in mm (unless outside selected)
+      y: "115" # inner depth in mm (unless outside selected)
+
+      ### Default Settings
+      # burn: 0.1 # burn correction (in mm)(bigger values for tighter fit) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#burn)
+      # debug: false # print surrounding boxes for some structures [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#debug)
+      # format: svg # format of resulting file [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#format)
+      # inner_corners: loop # style for inner corners [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#inner-corners)
+      # labels: true # label the parts (where available)
+      qr_code: true # Add a QR Code with link or command line to the generated output
+      # reference: 100.0 # print reference rectangle with given length (in mm)(zero to disable) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#reference)
+      # spacing: 1.7
+      # tabs: 0.0 # width of tabs holding the parts in place (in mm)(not supported everywhere) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#tabs)
+      # thickness: 3.0 # thickness of the material (in mm) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#thickness)
