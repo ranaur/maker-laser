@@ -1,0 +1,40 @@
+# Generated YAML configuration for BasedBox
+# Full format with Defaults and Boxes sections
+# This file can be used with boxes_generator.py or the build command
+
+Defaults:
+    # reference: 0
+
+Boxes:
+  - box_type: BasedBox
+    name: "BasedBox_example"
+    generate: true
+    args:
+      ### Settings for Finger Joints
+      # FingerJoint_bottom_lip: 0.0 # height of the bottom lips sticking out  (multiples of thickness) FingerHoleEdge only!
+      # FingerJoint_edge_width: 1.0 # space below holes of FingerHoleEdge (multiples of thickness)
+      # FingerJoint_extra_length: 0.0 # extra material to grind away burn marks (multiples of thickness)
+      FingerJoint_finger: 3 # width of the fingers (multiples of thickness)
+      # FingerJoint_play: 0.0 # extra space to allow finger move in and out (multiples of thickness)
+      FingerJoint_space: 3 # space between fingers (multiples of thickness)
+      # FingerJoint_style: rectangular # style of the fingers # [rectangular, springs, barbs, snap]
+      FingerJoint_surroundingspaces: 3 # space at the start and end in multiple of normal spaces
+      # FingerJoint_width: 1.0 # width of finger holes (multiples of thickness)
+
+      ### BasedBox Settings
+      h: 40 # inner height in mm (unless outside selected)
+      outside: false # treat sizes as outside measurements [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#outside)
+      x: 109 # inner width in mm (unless outside selected)
+      y: 109 # inner depth in mm (unless outside selected)
+
+      ### Default Settings
+      # burn: 0.1 # burn correction (in mm)(bigger values for tighter fit) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#burn)
+      # debug: false # print surrounding boxes for some structures [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#debug)
+      # format: svg # format of resulting file [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#format)
+      # inner_corners: loop # style for inner corners [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#inner-corners)
+      # labels: true # label the parts (where available)
+      qr_code: true # Add a QR Code with link or command line to the generated output
+      # reference: 100.0 # print reference rectangle with given length (in mm)(zero to disable) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#reference)
+      # spacing: 1.7
+      # tabs: 0.0 # width of tabs holding the parts in place (in mm)(not supported everywhere) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#tabs)
+      # thickness: 3.0 # thickness of the material (in mm) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#thickness)
