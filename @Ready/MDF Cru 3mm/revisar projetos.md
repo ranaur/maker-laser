@@ -1,21 +1,3 @@
-# 000 - Cut Test - 5m21:
-    Congif - Screenshot 2026-05-13 211306.png
-    Passes vs Speed at 20%.lbmt
-    Passes vs Speed at 25%.lbmt
-
-    Teste de Passadas vs velocidade a 20% e a 25% para testar a queima das máquinas no MDF
-
-# 010 - Pendências - 1m36:
-    Pendências - 1m36.lbrn2
-
-    Peças que quebraram ou que caíram
-
-# 020 - Gabaritos de Corte de Cartas - 1m42:
-    Fundo_r1.lbrn2
-    Template B_r1 - 1m42.lbrn2
-??
-    Gabarito corrigido. Será que vale a pena ter outro?
-
 # 030 - 20260507 - Laser - SoB Card Boxes - 3m42:
     Caird Box - 3m42.lbrn2
     readme.md
@@ -26,13 +8,7 @@
     Caixa COM tampa de encaixe de 79,70 de altura x 98 de largura e 51 de compimento.
 
     Imprima 1 e se ficar legal, Imprima mais umas 4.
-
-# 040 - 20260507 - Laser - SoB Display Boxes - 6m16:VDisplay Box - 6m16.lbrn2
-    DisplayShelf.md
-    DisplayShelf.svg
-    DisplayShelf.yaml
-
-    IMprima 1 para testar (caixa do jogador do SoB)
+?? Procurar a caixa e verificar
 
 # 050 - Guias para Exploration Box - 14m24:
     Exploration Box - 14m24.lbrn2
@@ -76,36 +52,13 @@
 
     Relógio de Sol
 
-# 100 - SoB Token Card - 24m18:
-    bzFshrQ.jpg
-    Cards - Map Deck - Mines
-    Cask
-    Cask - img20260311_16341588.png
-    Cask - Screenshot 2026-05-14 075050.png
-    Chest
-    Chest - img20260311_16375412.png
-    Chest - Screenshot 2026-05-14 074932.png
-    ImagesLLM
-    kmQeNxe.jpg
-    readme.md
-    Side Bag.lbrn2
-    Upgrade Slot.png
-    Weight - Screenshot 2026-05-14 075207.png
-
-    Peças para fazer o sidebag. Cortar um, colocar os imãs de 5mm e testar para cortar os outros.
-
-    Se tudo estiver certo, corta dois 5, um 7, dois barris e um tomb chest
-
-!   Rever tamanhos. E ver se dá para cortar na silhouette, colar etiquetas, etc.
-
-
 # 110 - Dial - 12m09:
     Counters - t310_v2 - 10m00.lbrn2
     Magnetic Counter - Clockwise_v2 - 1m30.lbrn2
     old
     Stencil para correção - 0m39.lbrn2
 
-120 - Addiator - 11m33:
+# 120 - Addiator - 11m33:
 Addiator.lbrn2
 Addiator Slide Calculator - eo4y4z8o.jpeg
 Addiator Slide Calculator - eo4y4z8o.svg
