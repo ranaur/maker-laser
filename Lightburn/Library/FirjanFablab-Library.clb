@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnLibrary DisplayName="Materials">
+    <Material name="Acrílico">
+        <Entry Thickness="240.0000" Desc="Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value="C01"/>
+                <LinkPath Value="Acrílico/nan/Vermelho"/>
+                <minPower Value="70"/>
+                <maxPower Value="70"/>
+                <maxPower2 Value="20"/>
+                <speed Value="30"/>
+                <dotTime Value="1"/>
+                <tabsEnabled Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
     <Material name="Balsa">
         <Entry Thickness="3.0000" Desc="Corte">
             <CutSetting type="Cut">
@@ -117,8 +135,11 @@
                 <LinkPath Value="MDF/3.0000/Fill"/>
                 <maxPower Value="20"/>
                 <maxPower2 Value="20"/>
-                <speed Value="100"/>
+                <speed Value="150"/>
+                <dotTime Value="1"/>
                 <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="3.0000" Desc="Image">
@@ -172,9 +193,9 @@
                 <name Value=""/>
                 <LinkPath Value="MDF/6.0000/Cut"/>
                 <minPower Value="80"/>
-                <maxPower Value="80"/>
+                <maxPower Value="90"/>
                 <maxPower2 Value="20"/>
-                <speed Value="18"/>
+                <speed Value="10"/>
                 <dotTime Value="1"/>
                 <priority Value="0"/>
                 <tabCount Value="1"/>
