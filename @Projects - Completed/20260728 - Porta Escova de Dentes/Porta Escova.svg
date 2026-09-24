@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="Porta Escova.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.48693448"
+     inkscape:cx="-45.180616"
+     inkscape:cy="879.99518"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#008000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       d="m 59.558816,23.070873 c -2.77,0 -5.000212,2.230212 -5.000212,5.000212 v 87.625145 c 0,2.77 2.230212,4.99969 5.000212,4.99969 h 6.8802 c 2.609967,-0.17389 4.659147,-2.33278 4.659147,-4.98832 V 95.707267 c 0,-2.77 2.230212,-4.999695 5.000212,-4.999695 h 1.999877 c 2.770001,0 5.000212,2.229695 5.000212,4.999695 V 115.7076 c 0,2.65554 2.04918,4.81443 4.659147,4.98832 h 7.785571 c 2.609968,-0.17389 4.659148,-2.33278 4.659148,-4.98832 V 95.707267 c 0,-2.77 2.23021,-4.999695 5.00021,-4.999695 h 1.99988 c 2.77,0 5.00021,2.229694 5.00021,4.999695 V 115.7076 c 0,2.65554 2.04918,4.81443 4.65915,4.98832 h 7.69721 c 2.77,0 4.99969,-2.22969 4.99969,-4.99969 V 28.071085 c 0,-2.77 -2.22969,-5.000212 -4.99969,-5.000212 z"
+       sodipodi:nodetypes="sssscssssssccsssssscsssss" />
+  </g>
+</svg>

@@ -8,30 +8,6 @@
     Caixa COM tampa de encaixe de 79,70 de altura x 98 de largura e 51 de compimento.
 
     Imprima 1 e se ficar legal, Imprima mais umas 4.
-?? Procurar a caixa e verificar
-
-# 050 - Guias para Exploration Box - 14m24:
-    Exploration Box - 14m24.lbrn2
-
-    Cortar arredondado e com TAB, mas colocar algo dento dos círculos
-
-# 060 - Wooden Game 5m47:
-    Wooden Game - 5.47min - 3mm.lbrn2
-    Wooden Game Points Counter - 67wz98m7.jpeg
-    Wooden Game Points Counter - 67wz98m7.svg
-    Wooden Game Points_v1.svg
-    Wooden Game Points_v2.svg
-
-!    Contador de jogo. Imprime um pra testar, talvez mais alguns. Seria melhor cortar no MDF branco.
-
-# 070 - Archimedes spiral trivet cnc_laser - 1605439 - 4m03:
-    Archimedes spiral trivet - 4m03.lbrn2
-    files
-    images
-    LICENSE.txt
-    README.txt
-
-    2 descansos para panelas de 20cm mais ou menos.
 
 # 080 - 3D Wood Structure Trivet cnc_laser - 1547234 - 3m40:
     3D Wood Structure Trivet - 3mm and 6mm - 3m40.lbrn2

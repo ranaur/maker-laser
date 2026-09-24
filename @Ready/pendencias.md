@@ -4,8 +4,6 @@
 
 Gravar o logo do Bandido na caixa
 
-!TODO! Revisar arquivos se o logo está lá
-
 !TODO! Levar a caixa do Bandido
 
 ## Dados de Madeira - P-Dice : Gravação dos dados
@@ -26,9 +24,6 @@ Testar como vai ficar
 
 ## MDF
 
-Cortar mais 4 caixas do SoB:
-    ...\maker-laser\@Sessions\20260803 - Aluguel - Laser Cutter\MDF Cru 3mm\030 - 20260507 - Laser - SoB Card Boxes - 3m42 OK
-
 MDF Cru 3mm
 
 
@@ -37,9 +32,10 @@ MDF Cru 3mm
 
 # TODO
 
+# Future
+
 * Refazer a caixa do bandido para eu colocar o bandido e Bandida? Refazer no tamanho das caixas?
 * Fazer Stencils
-* Fazer uma fazendinha para a Helena
 
 [ ] Ver se tenho MDF suficiente e comprar mais
 [ ] Gerar lightburn de algumas peças reserva para a árvore (001 - Pendências)

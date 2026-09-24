@@ -1,0 +1,50 @@
+# Generated YAML configuration for SlidingLidBox
+# Full format with Defaults and Boxes sections
+# This file can be used with boxes_generator.py or the build command
+
+Defaults:
+    # reference: 0
+
+Boxes:
+  - box_type: SlidingLidBox
+    name: "SlidingLidBox_example"
+    generate: true
+    args:
+      ### Settings for Finger Joints
+      # FingerJoint_bottom_lip: 0.0 # height of the bottom lips sticking out  (multiples of thickness) FingerHoleEdge only!
+      FingerJoint_edge_width: 2 # space below holes of FingerHoleEdge (multiples of thickness)
+      # FingerJoint_extra_length: 0.0 # extra material to grind away burn marks (multiples of thickness)
+      FingerJoint_finger: 5 # width of the fingers (multiples of thickness)
+      # FingerJoint_play: 0.0 # extra space to allow finger move in and out (multiples of thickness)
+      FingerJoint_space: 5 # space between fingers (multiples of thickness)
+      # FingerJoint_style: rectangular # style of the fingers # [rectangular, springs, barbs, snap]
+      # FingerJoint_surroundingspaces: 2.0 # space at the start and end in multiple of normal spaces
+      # FingerJoint_width: 1.0 # width of finger holes (multiples of thickness)
+
+      ### SlidingLidBox Settings
+      bottom_edge: "h" # edge type for bottom edge # [too many! Run box_cli list edges to see valid values!]
+      h: "250" # inner height in mm (unless outside selected)
+      # hole_length: "40.0" # length of the grip hole in mm
+      # hole_radius: "10.0" # radius of the grip hole in mm
+      # hole_width: "20.0" # width of the grip hole in mm
+      # lid_type: "hole" # add an optional grip hole to the lid
+      # margin_s: "0.05" # margin to add at both sides of sliding lid (multiples of thickness)
+      # margin_t: "0.1" # vertical margin for sliding lid (multiples of thickness)
+      # outside: "False" # treat sizes as outside measurements [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#outside)
+      # rail: "1.5" # width of the rail (multiples of thickness)
+      top_edge: "h" # edge type for top edge # [too many! Run box_cli list edges to see valid values!]
+      vertical_edges: "finger holes" # connections used for the vertical edges
+      x: "250" # inner width in mm (unless outside selected)
+      y: "500" # inner depth in mm (unless outside selected)
+
+      ### Default Settings
+      # burn: 0.1 # burn correction (in mm)(bigger values for tighter fit) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#burn)
+      # debug: false # print surrounding boxes for some structures [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#debug)
+      # format: svg # format of resulting file [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#format)
+      # inner_corners: loop # style for inner corners [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#inner-corners)
+      # labels: true # label the parts (where available)
+      qr_code: true # Add a QR Code with link or command line to the generated output
+      # reference: 100.0 # print reference rectangle with given length (in mm)(zero to disable) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#reference)
+      # spacing: 3.2
+      # tabs: 0.0 # width of tabs holding the parts in place (in mm)(not supported everywhere) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#tabs)
+      thickness: 6 # thickness of the material (in mm) [🛈](https://florianfesti.github.io/boxes/html/usermanual.html#thickness)

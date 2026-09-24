@@ -1,1 +1,0 @@
-Cortar algumas peças reserva para a árvore
