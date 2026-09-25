@@ -1,8 +1,25 @@
+# TODO
+
+COnsertar a prateleira que ficou errada (na mão).
+Montar case
+Cobrir o case e fazer a curadora.
+1) Refazer a prateleira com:
+ - 6mm a menos no fundo.
+ - um ou dois furos para passar os cabos
+ - com um espaço para colocar um fechamento.
+
+2) Refazer a estrutura
+
+Toda a caixa precisa ser refeita para que as laterais sejam tipo "h" (com thickness de folga)
+
+
+
 # Referências
 
-Impressora: 20x20x41.5
+Tamanho da Impressora: 20x20x41.5
 
 Folga: 1,5 de cada lado, pois é o que precisa para puxar a caixa e colocar os leds.
+    * pode ser de 2,5
 
 Caixa inferior: 5 cm + largura do material
 

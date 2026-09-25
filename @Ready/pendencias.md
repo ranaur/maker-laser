@@ -24,11 +24,7 @@ Testar como vai ficar
 
 ## MDF
 
-MDF Cru 3mm
-
-
-@Projects/20260328 - Laser - Altoids Box - fazer com fangs. Se ficar bom, cortar umas 4
-@Projects/20260328 - Laser - Ruler
+MDF Cru 3mm: ver 1) MDF Cru 3mm/readme.md
 
 # TODO
 
