@@ -1,11 +1,3 @@
-# 010 - Caixa bandido - 20260801 - 4m23\
-
-Cortar o esquadro para colocar a caixa
-    1) Prender com fita um MDF de descarte.
-    2) Cortar o tamanho da caixa.
-    3) Recalibrar a máquina com a nova altura da caixa
-    4) Gravar
-
 # 020 - Caixas SOB ~16 m
 
     Imprimir 4 cópias dessa caixa em MDF 3mm.
@@ -16,12 +8,6 @@ Cortar o esquadro para colocar a caixa
 
     Arquivo original em 
 @Sessions\20260803 - Aluguel - Laser Cutter\MDF Cru 3mm\030 - 20260507 - Laser - SoB Card Boxes - 3m42 OK
-
-    Caird Box - 3m42.lbrn2
-    readme.md
-    UniversalBox - 3mm.old.svg
-    UniversalBox - 3mm.svg
-    UniversalBox - 3mm.yaml
 
     Caixa COM tampa de encaixe de 79,70 de altura x 98 de largura e 51 de compimento.
 
