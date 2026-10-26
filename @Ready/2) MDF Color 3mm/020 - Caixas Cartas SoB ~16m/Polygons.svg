@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.276 841.89">
+  <defs>
+    <style>
+      .cls-1{fill:#ffffff;stroke:#000000;stroke-miterlimit:10}
+      .cls-2{font-family:Arial, sans-serif;font-size:48;font-weight:bold;fill:#000000}
+      .cls-3{font-family:Arial, sans-serif;font-size:57.805;font-weight:bold;fill:#000000}
+      .cls-4{font-family:Arial, sans-serif;font-size:60;font-weight:bold;fill:#000000}
+    </style>
+  </defs>
+  <title>Polygons</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <path d="M102.056 122.739 L163.428 229.038 L40.684 229.038 Z" class="cls-1"/>
+      <text transform="matrix(1 0 0 1 88.708 206.529)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">3</tspan></text>
+    </g>
+    <g>
+      <path d="M273.071 225.042 L172.869 226.937 L170.974 126.735 L271.176 124.84 Z" class="cls-1"/>
+      <text transform="matrix(1 0 0 1 208.675 192.529)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">4</tspan></text>
+    </g>
+    <g>
+      <path d="M362.225 111.789 L429.623 160.757 L403.879 239.987 L320.571 239.987 L294.827 160.757 Z" class="cls-1"/>
+      <text transform="matrix(0.743 0 0 0.83 350.29 199.529)" x="0" y="0" xml:space="preserve" class="cls-3"><tspan x="0" y="0">5</tspan></text>
+    </g>
+    <g>
+      <path d="M465.121 114.516 L535.987 114.516 L571.42 175.888 L535.987 237.26 L465.121 237.26 L429.688 175.888 Z" class="cls-1"/>
+      <text transform="matrix(1 0 0 1 487.206 192.529)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">6</tspan></text>
+    </g>
+    <g>
+      <path d="M102.056 275.626 L157.461 302.308 L171.145 362.262 L132.803 410.341 L71.308 410.341 L32.966 362.262 L46.65 302.308 Z" class="cls-1"/>
+      <text transform="matrix(1 0 0 1 88.708 364.624)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">7</tspan></text>
+    </g>
+    <g>
+      <path d="M231.409 277.512 L285.648 277.512 L324 315.864 L324 370.103 L285.648 408.455 L231.409 408.455 L193.057 370.103 L193.057 315.864 Z" class="cls-1"/>
+      <text transform="matrix(1 0 0 1 245.181 359.624)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">8</tspan></text>
+    </g>
+    <g>
+      <path d="M413.092 274.254 L458.644 290.834 L482.882 332.815 L474.464 380.553 L437.33 411.713 L388.855 411.713 L351.721 380.553 L343.303 332.815 L367.541 290.834 Z" class="cls-1"/>
+      <text transform="matrix(1 0 0 1 399.745 361.624)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">9</tspan></text>
+    </g>
+    <g>
+      <path d="M560.095 275.586 L603.893 275.586 L639.326 301.329 L652.86 342.983 L639.326 384.638 L603.893 410.381 L560.095 410.381 L524.662 384.638 L511.128 342.983 L524.662 301.329 Z" class="cls-1"/>
+      <text transform="matrix(1 0 0 1 555.299 359.624)" x="0" y="0" xml:space="preserve" class="cls-2"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g>
+      <text transform="matrix(1 0 0 1 195.077 607.221)" x="0" y="0" xml:space="preserve" class="cls-4"><tspan x="0" y="0">∞</tspan></text>
+      <path d="M145.598 586.42 C145.598 547.282 177.325 515.554 216.464 515.554 C255.602 515.554 287.33 547.282 287.33 586.42 C287.33 625.558 255.602 657.286 216.464 657.286 C177.325 657.286 145.598 625.558 145.598 586.42 Z" class="cls-1"/>
+    </g>
+  </g>
+</svg>
