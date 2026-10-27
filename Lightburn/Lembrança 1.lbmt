@@ -1,0 +1,58 @@
+{
+    "Lembrança": {
+        "BorderCut": {
+            "dotTime": 1,
+            "index": 2,
+            "maxPower": 80,
+            "maxPower2": 20,
+            "minPower": 80,
+            "name": "C02",
+            "priority": 6,
+            "speed": 20,
+            "tabCount": 1,
+            "tabCountMax": 1,
+            "type": "Cut"
+        },
+        "MaterialCut": {
+            "dotTime": 1,
+            "index": 0,
+            "limitMaxTabs": true,
+            "manualTabs": false,
+            "maxPower": 20,
+            "maxPower2": 20,
+            "name": "",
+            "priority": 3,
+            "speed": 400,
+            "tabCount": 2,
+            "tabCountMax": 4,
+            "tabsEnabled": true,
+            "type": "Cut"
+        },
+        "TextCut": {
+            "dotTime": 1,
+            "index": 1,
+            "limitMaxTabs": true,
+            "manualTabs": false,
+            "maxPower": 20,
+            "maxPower2": 20,
+            "name": "",
+            "priority": 2,
+            "speed": 100,
+            "tabCount": 2,
+            "tabCountMax": 4,
+            "type": "Cut"
+        },
+        "XCenter": 650,
+        "XCount": 10,
+        "XMax": 100,
+        "XMin": 10,
+        "XParam": 1,
+        "XSize": 5,
+        "YCenter": 500,
+        "YCount": 10,
+        "YMax": 100,
+        "YMin": 10,
+        "YParam": 0,
+        "YSize": 5
+    }
+}
